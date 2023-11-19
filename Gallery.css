@@ -14,7 +14,7 @@
 
 .u-section-1 .u-list-1 {
   width: 265px;
-  margin: -63px auto 0 16px;
+  margin: -63px auto 0 4px;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -241,13 +241,14 @@
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 185px;
-    margin-top: -120px;
-    margin-left: 66px;
+    margin-top: -121px;
+    margin-left: -32px;
+    height: auto;
+    min-height: auto;
   }
 
   .u-section-1 .u-repeater-1 {
-    min-height: 49px;
+    min-height: 185px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -264,7 +265,7 @@
 
   .u-section-1 .u-gallery-1 {
     height: 389px;
-    margin-top: -31px;
+    margin-top: -29px;
     margin-bottom: 60px;
     margin-right: initial;
     margin-left: initial;
