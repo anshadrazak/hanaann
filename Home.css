@@ -213,7 +213,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    background-image: url(images/hananmob.jpg);
+    background-image: url("images/hananmob.jpg");
     background-position: 51.9% 52.19%;
   }
 
@@ -244,40 +244,39 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 175px;
-    margin-left: 92px;
+    margin-top: 218px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
-    margin-top: 6px;
-    margin-left: 129px;
+    margin-top: -8px;
+    margin-left: 126px;
   }
 
   .u-section-1 .u-image-1 {
     width: 28px;
     height: 68px;
     margin-top: -53px;
-    margin-left: 189px;
+    margin-left: 186px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 9px;
-    margin-left: 87px;
+    margin-top: 0;
+    margin-left: auto;
   }
 
   .u-section-1 .u-image-2 {
     width: 39px;
     height: 40px;
     margin-top: 25px;
-    margin-left: 109px;
+    margin-left: 116px;
   }
 
   .u-section-1 .u-text-4 {
     width: auto;
     margin-top: -33px;
-    margin-right: 123px;
-    margin-left: auto;
+    margin-left: 152px;
   }
 
   .u-section-1 .u-btn-4 {
@@ -287,7 +286,7 @@
   .u-section-1 .u-image-3 {
     width: 40px;
     height: 40px;
-    margin-top: 14px;
+    margin-top: 7px;
     margin-left: 82px;
   }
 
@@ -298,8 +297,8 @@
   }
 
   .u-section-1 .u-btn-5 {
-    margin-top: 21px;
-    margin-bottom: 43px;
-    margin-left: 91px;
+    margin-top: 22px;
+    margin-left: auto;
+    margin-bottom: 29px;
   }
 }
